@@ -1,0 +1,8 @@
+Cantidad de documentos analizados:498
+Cantidad de tokens encontrados:160469353
+Cantidad de terminos encontrados:19075
+Promedio de terminos por documento:619.7289156626506
+Largo promedio de un termino:0.00041939711664482304
+Cantidad de terminos del documento mas corto:1
+Cantidad de terminos del documento mas largo:43613
+Cantidad de terminos que aparecen solo 1 vez en la coleccion : 9421

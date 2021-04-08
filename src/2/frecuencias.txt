@@ -1,0 +1,22 @@
+La lista de los 10 terminos mas frecuentes: 
+de 33040
+la 14110
+y 10859
+en 9895
+el 7010
+a 5723
+- 4775
+del 4517
+que 4492
+los 3718
+La lista de los 10 terminos menos frecuentes:
+llegaría 1
+perth 1
+75-84 1
+arinci 1
+froilan 1
+arhus 1
+ns/nc 1
+898/09 1
+desfoga 1
+cagliari 1
