@@ -1,0 +1,2 @@
+3. Repitiendo el procesamiento con esta nueva colección, los resultados en general responden al dominio del problema. Esta coleccion posee textos sobre articulos referidos a procesos quimicos.
+  En casi todos los casos, los terminos obtenidos mantienen la forma esperada por ejemplo con temperaturas,fracciones, formulas quimicas, moleculas, porcentajes, etc. De igual forma seria interesante plantear expresiones regulares o funciones mas especificas para identificar estos terminos.

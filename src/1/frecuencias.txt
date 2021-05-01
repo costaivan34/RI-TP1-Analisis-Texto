@@ -1,22 +1,24 @@
-La lista de los 10 terminos mas frecuentes: 
-de 33040
-la 14110
-y 10859
-en 9895
-el 7010
-a 5723
-- 4775
-del 4517
-que 4492
-los 3718
-La lista de los 10 terminos menos frecuentes:
-llegaría 1
-perth 1
-75-84 1
-arinci 1
-froilan 1
-arhus 1
-ns/nc 1
-898/09 1
-desfoga 1
-cagliari 1
+{
+{
+{'1': {'de': {'CF':29725} },
+{'2': {'la': {'CF':11659} },
+{'3': {'y': {'CF':9707} },
+{'4': {'en': {'CF':8415} },
+{'5': {'el': {'CF':5530} },
+{'6': {'a': {'CF':4930} },
+{'7': {'del': {'CF':3706} },
+{'8': {'los': {'CF':3086} },
+{'9': {'que': {'CF':2861} },
+{'10': {'las': {'CF':2561} },
+}{
+{'1': {'netkorking': {'CF':1} },
+{'2': {'proydesa': {'CF':1} },
+{'3': {'ccna2': {'CF':1} },
+{'4': {'ccna4': {'CF':1} },
+{'5': {'visualizando': {'CF':1} },
+{'6': {'descargarlo': {'CF':1} },
+{'7': {'towebs': {'CF':1} },
+{'8': {'subdominios': {'CF':1} },
+{'9': {'mac': {'CF':1} },
+{'10': {'cute': {'CF':1} },
+}}

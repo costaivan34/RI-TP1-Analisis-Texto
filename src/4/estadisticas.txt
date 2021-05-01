@@ -5,7 +5,7 @@
 'cant_terminos':343161,
 'avg_tokens_doc' :690.4647887323944,
 'avg_terminos_doc' :690.4647887323944,
-'largo_promedio_term' :5.6544100291117,
+'largo_promedio_term' :4.798042318328714,
 'mas_corto' : { 'tokens':-, 'terminos': -},
 'mas_largo' : { 'tokens': -, 'terminos': -},
-'term_freq_1': 13818}}}
+'term_freq_1': 9824}}}

@@ -1,0 +1,11 @@
+{
+{
+{'doc_procesados': 1460,
+'cant_tokens':186380,
+'cant_terminos':176122,
+'avg_tokens_doc' :127.65753424657534,
+'avg_terminos_doc' :120.63150684931507,
+'largo_promedio_term' :3.8932785228421207,
+'mas_corto' : { 'tokens':-, 'terminos': -},
+'mas_largo' : { 'tokens': -, 'terminos': -},
+'term_freq_1': 1951}}}
